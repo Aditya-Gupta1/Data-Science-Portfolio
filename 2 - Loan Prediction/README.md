@@ -4,11 +4,11 @@
 
 This project requires Python 3.x and following libraries installed:
 
-* Numpy
-* Pandas
-* Matplotlib
-* scikit-learn
-* Seaborn
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [scikit-learn](https://scikit-learn.org/)
+* [Seaborn](https://seaborn.pydata.org/)
 
 We will also need to install software to run jupyter notebooks. You can download it from [here](https://www.anaconda.com/distribution/#download-section)
 
@@ -20,22 +20,20 @@ It is a **binary** classification problem where we have to predict whether a loa
 
 ## Understanding the Data
 
-                          |    Feature         |   Description                                     |
-                          |--------------------|---------------------------------------------------|
-                          | :---               |   :---                                            |
-                          | Loan_ID	           |   Unique Loan ID                                  |
-                          | Gender             |   Male / Female                                   |
-                          | Married            |   Applicant married (Y/N)                         |
-                          | Dependents         |   Number of dependents                            |
-                          | Education          |   Applicant Education (Graduate/Under Graduate)   |
-                          | Self_Employed      |   Self employed (Y/N)                             |
-                          | ApplicantIncome    |   Applicant income                                |
-                          | CoapplicantIncome  |   Coapplicant income                              |
-                          | LoanAmount         |   Loan amount in thousands                        |
-                          | Loan_Amount_Term   |   Term of loan in months                          |
-                          | Credit_History     |   Credit history meets guidelines                 |
-                          | Property_Area      |   Urban/ Semi Urban/ Rural                        |
-                          | Loan_Status        |   Loan approved (Y/N)                             |
+
+* Loan_ID : Unique Loan ID 
+* Gender : Male / Female 
+* Married : Applicant married (Y/N)
+* Dependents : Number of dependents
+* Education : Applicant Education (Graduate/Under Graduate)
+* Self_Employed : Self employed (Y/N)
+* ApplicantIncome : Applicant income
+* CoapplicantIncome : Coapplicant income
+* LoanAmount : Loan amount in thousands
+* Loan_Amount_Term : Term of loan in months
+* Credit_History : Credit history meets guidelines
+* Property_Area : Urban/ Semi Urban/ Rural
+* Loan_Status : Loan approved (Y/N)
 
 ## Univariate Analysis
 

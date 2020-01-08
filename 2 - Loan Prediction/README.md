@@ -103,4 +103,4 @@ There are several models that are trained in this section. These are :
 
 These models are trained using k-Fold Stratified Cross Validation technique.
 
-As a result , **Logistic Regression** maximum accuracy score among all the other models.
+As a result , **Logistic Regression** gave maximum accuracy score among all the other models.

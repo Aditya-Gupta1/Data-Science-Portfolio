@@ -12,4 +12,6 @@ The projects are :
 
 * [Loan Prediction](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/2%20-%20Loan%20Prediction)
 
+* [Hand-Written Digit Classification using Supervised Learning Algorithms](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/5%20-%20Hand%20Written%20Digit%20Classification)
+
 * [Finding Donors for CharityML](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/1%20-%20Finding%20Donors%20for%20CharityML)

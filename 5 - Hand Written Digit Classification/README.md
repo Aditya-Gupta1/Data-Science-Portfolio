@@ -1,4 +1,4 @@
-# Hand-Written Image Classification using Supervised Learning Algorithms
+# Hand-Written Digit Classification using Supervised Learning Algorithms
 This project uses the famous MNIST dataset for Multi-Class Classification. This dataset is in-built in scikit-learn's library and can be loaded easily. It contains a set of images which are basically images of handwritten digits along with their respective labels.
 
 ## Goal

@@ -83,7 +83,7 @@ It can be done easily by performing log transformation of the features containin
 
 ## Evaluation Metric
 
-As it is a classikication problem with not much skewness, we will use accuracy_score as our evaluation metric.
+As it is a classification problem with not much skewness, we will use accuracy_score as our evaluation metric.
 We can also use Receiver Operating Characteristic(ROC) curve to see the trade-off between the True Positive Rate(sensitivity) and False Positive Rate(1 - specificity). The Area Under Curve(AUC) is a perfect performance metric for ROC curve. More the AUC score, better the predictive power of the model.
 
 ## Feature Enginnering
@@ -103,4 +103,4 @@ There are several models that are trained in this section. These are :
 
 These models are trained using k-Fold Stratified Cross Validation technique.
 
-As a result , **Logistic Regression** maximum accuracy score among all the other models.
+As a result , **Logistic Regression** gave maximum accuracy score among all the other models.

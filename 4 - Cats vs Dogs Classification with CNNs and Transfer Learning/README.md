@@ -23,7 +23,7 @@ Various steps in this project are as follows:
 4. Three Block VGG Architecture with Image Augmentation: 82.929% Accuracy
 5. Pre-trained VGG-16 Architecture: 97.985% Accuracy
 
-##Plots
+## Plots
 
 **One Block VGG Architecture**
 

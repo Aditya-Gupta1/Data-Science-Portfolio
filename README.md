@@ -6,8 +6,8 @@ Click on the projects to see full analysis and code.
 
 The projects are :
 
-3. [Time Series Analysis](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/3%20-%20Time%20Series%20Analysis)
+* [Time Series Analysis](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/3%20-%20Time%20Series%20Analysis)
 
-2. [Loan Prediction](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/2%20-%20Loan%20Prediction)
+* [Loan Prediction](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/2%20-%20Loan%20Prediction)
 
-1. [Finding Donors for CharityML](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/1%20-%20Finding%20Donors%20for%20CharityML)
+* [Finding Donors for CharityML](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/1%20-%20Finding%20Donors%20for%20CharityML)

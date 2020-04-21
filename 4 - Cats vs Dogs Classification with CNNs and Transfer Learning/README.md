@@ -24,6 +24,7 @@ Various steps in this project are as follows:
 5. Pre-trained VGG-16 Architecture: 97.985% Accuracy
 
 ##Plots
+
 **One Block VGG Architecture**
 
 ![One Block VGG Architecture](one_block_vgg_architecture_plot.png)

@@ -10,6 +10,8 @@ The projects are :
 
 * [Time Series Analysis](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/3%20-%20Time%20Series%20Analysis)
 
+* [Scraping Bollywood Actor's Data from IMDB Website](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/6%20-%20Scraping%20Bollywood%20Actors%20Data%20from%20IMDB%20Website)
+
 * [Loan Prediction](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/2%20-%20Loan%20Prediction)
 
 * [Hand-Written Digit Classification using Supervised Learning Algorithms](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/5%20-%20Hand%20Written%20Digit%20Classification)

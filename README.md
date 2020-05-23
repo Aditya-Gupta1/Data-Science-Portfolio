@@ -6,6 +6,8 @@ Click on the projects to see full analysis and code.
 
 The projects are :
 
+* [Real or Fake Natural Disaster Prediction](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/8%20-%20Real%20or%20Fake%20Natural%20Disaster)
+
 * [Age and Gender Estimation using Multi-Task CNN](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/7%20-%20Age%20and%20Gender%20Estimation%20using%20Multi-Task%20CNN)
 
 * [Cats vs Dogs Classification with CNNs and Transfer Learning](https://github.com/Aditya-Gupta1/Data-Science-Portfolio/tree/master/4%20-%20Cats%20vs%20Dogs%20Classification%20with%20CNNs%20and%20Transfer%20Learning)
